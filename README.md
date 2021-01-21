@@ -1,2 +1,2 @@
-# coursera-test
+http://coursera-test.io
 Coursera Test Repossitory
